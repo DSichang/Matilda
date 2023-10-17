@@ -12,15 +12,15 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../main/'))
+sys.path.insert(0, os.path.abspath('.'))
 
 
 
 # -- Project information -----------------------------------------------------
 
 project = 'Matilda'
-copyright = '2023, Chunlei Liu, Pengyi Yang'
-author = 'Chunlei Liu, Pengyi Yang'
+copyright = '2023, Pengyi Yang'
+author = 'Pengyi Yang'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
