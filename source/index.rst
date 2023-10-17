@@ -12,16 +12,16 @@ Welcome to Matilda's documentation!
 
 Modules
 -------
-.. automodule:: main_matilda_rna_task
+.. automodule:: model_rna
    :members:
 
-.. automodule:: main_matilda_rna_train
+.. automodule:: model
    :members:
 
-.. automodule:: main_matilda_task
+.. automodule:: predict
    :members:
 
-.. automodule:: main_matilda_train
+.. automodule:: train
    :members:
 Indices and tables
 ==================
