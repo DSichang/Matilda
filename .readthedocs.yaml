@@ -8,5 +8,6 @@ build:
 sphinx:
   configuration: source/conf.py
 
-conda:
-    environment: environment_matilda.yaml  
+python:
+  install:
+    - requirements: requirements.txt
