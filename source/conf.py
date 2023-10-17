@@ -17,7 +17,7 @@ print("Python executable:", sys.executable)
 print("sys.path:", sys.path)
 
 
-sys.path.insert(0, os.path.abspath('../main'))
+sys.path.insert(0, os.path.abspath('../main/learn'))
 
 
 
