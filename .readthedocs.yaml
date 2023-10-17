@@ -7,3 +7,6 @@ build:
 
 sphinx:
   configuration: source/conf.py
+
+conda:
+    environment: environment_matilda.yaml  
