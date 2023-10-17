@@ -12,10 +12,14 @@ Welcome to Matilda's documentation!
 
 Modules
 -------
-.. automodule:: test_1
+.. automodule:: model_rna
    :members:
-
-
+.. automodule:: model
+   :members:
+.. automodule:: predict
+   :members:
+.. automodule:: train
+   :members:   
 Indices and tables
 ==================
 
