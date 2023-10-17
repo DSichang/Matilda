@@ -10,8 +10,19 @@ Welcome to Matilda's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+Modules
+-------
+.. automodule:: main_matilda_rna_task
+   :members:
 
+.. automodule:: main_matilda_rna_train
+   :members:
 
+.. automodule:: main_matilda_task
+   :members:
+
+.. automodule:: main_matilda_train
+   :members:
 Indices and tables
 ==================
 
