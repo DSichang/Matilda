@@ -1,5 +1,3 @@
-"""
-This script provides a demonstration of how to add a file-level docstring.
-"""
-
-print("This is a simple script.")
+def example_function():
+    """This is an example function for testing Sphinx."""
+    print("Hello, Sphinx!")
