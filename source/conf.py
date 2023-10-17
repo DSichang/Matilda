@@ -11,6 +11,10 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 import os
+print("Current working directory:", os.getcwd())
+print("Python executable:", sys.executable)
+print("sys.path:", sys.path)
+
 import sys
 sys.path.insert(0, os.path.abspath('./main'))
 
