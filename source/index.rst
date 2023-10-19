@@ -13,8 +13,8 @@ Welcome to Your Project's documentation!
 .. toctree::
    :maxdepth: 2
 
-   learn
-   tutorial
+   Main
+   Tutorial
 
 Indices and tables
 ==================
