@@ -7,7 +7,7 @@ Welcome to Your Project's documentation!
 ========================================
 .. image:: ../img/main.jpg
    :alt: This is an alt text for the image
-   :width: 300px
+   :width: 900px
    :align: center
 
 .. toctree::
