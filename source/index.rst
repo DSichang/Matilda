@@ -3,24 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Matilda's documentation!
-===================================
+Welcome to Your Project's documentation!
+========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-Modules
--------
-.. automodule:: model_rna
-   :members:
-.. automodule:: model
-   :members:
-.. automodule:: predict
-   :members:
-.. automodule:: train
-   :members:   
-   
+   Modules <learn>
+   Tutorial <tutorial>
+
 Indices and tables
 ==================
 
