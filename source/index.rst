@@ -5,6 +5,10 @@
 
 Welcome to Your Project's documentation!
 ========================================
+.. image:: ../img/main.jpg
+   :alt: This is an alt text for the image
+   :width: 300px
+   :align: center
 
 .. toctree::
    :maxdepth: 2
