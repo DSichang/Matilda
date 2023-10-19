@@ -7,14 +7,14 @@ Welcome to Your Project's documentation!
 ========================================
 .. image:: ../img/main.jpg
    :alt: This is an alt text for the image
-   :width: 900px
+   :width: 1200px
    :align: center
 
 .. toctree::
    :maxdepth: 2
 
-   Modules <learn>
-   Tutorial <tutorial>
+   learn
+   tutorial
 
 Indices and tables
 ==================
