@@ -9,7 +9,7 @@ Welcome to Matilda's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+.. mdinclude:: ../README.md 
 Modules
 -------
 .. automodule:: model_rna
