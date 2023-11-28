@@ -3,12 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Your Project's documentation!
+Welcome to Matilda!
 ========================================
-.. image:: ../img/main.jpg
-   :alt: This is an alt text for the image
-   :width: 1200px
-   :align: center
+.. mdinclude:: ../README.md 
+   
+
 
 .. toctree::
    :maxdepth: 2
